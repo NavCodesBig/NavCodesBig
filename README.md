@@ -2,4 +2,4 @@
 - 👀 I’m interested in Java/Python/C
 - 🌱 I’m currently learning computer science at UMD
 - 💞️ I’m looking to collaborate on advancements in the medical field through AI
-- ⚡ Fun fact: I want to work on diabetic care products in the future
+- ⚡ Fun fact: I am an Eagle Scout
